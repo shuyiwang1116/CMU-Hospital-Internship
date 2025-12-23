@@ -18,7 +18,9 @@ To ensure a data-driven approach, I conducted a comprehensive two-phase survey s
   <img src="media/Age distribution.png" width="90%" />
   <img src="media/First time.png" width="90%" />
 </p>
+
 * **User Experience Baseline:** Found that 81% of respondents were returning patients, providing a reliable sample for longitudinal comparison.
+
 * **Gap Analysis:** Analyzed open-ended feedback to identify "hidden" pain points, such as patients being unaware they needed to complete payment before queueing for medication.
 
 ## 🔴 Problem Identification
