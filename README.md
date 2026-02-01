@@ -1,6 +1,8 @@
 # Healthcare UX & Process Optimization: Pharmacy Queuing System Improvement
 **Case Study: China Medical University Hospital - Cancer Center Pharmacy**
 
+### Skills Demonstrated: **Data Analysis (Excel/Statistics)** |   **Data Visualization** | **Problem Solving** | **Bilingual Communication** | **Healthcare Management** | **UX Research**
+
 ## 📌 Project Overview
  During my internship at China Medical University Hospital, I led a project to optimize the outpatient pharmacy's queuing flow. The project addressed frequent patient complaints regarding chaotic queuing, line-cutting, and unclear display systems. By applying **Queuing Theory** and **Data-Driven Research**, I proposed and implemented solutions that improved overall patient satisfaction.
 
@@ -48,5 +50,3 @@ The data-driven approach led to measurable improvements in patient experience:
 
 
 ---
-### Skills Demonstrated
-**Data Analysis (Excel/Statistics)** |   **Data Visualization** | **Problem Solving** | **Bilingual Communication** | **Healthcare Management** | **UX Research**
